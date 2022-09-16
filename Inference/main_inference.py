@@ -11,6 +11,8 @@ from keras.models import Sequential
 from keras.layers import Input, Dense, SimpleRNN, Activation, Embedding, Bidirectional, LSTM
 import matplotlib.pyplot as plt
 
+
+
 class Train:
     def __init__(self, ds_train):
         self.df = None
@@ -248,6 +250,7 @@ def createWordIndex(hp, train, validation, test):
     train.labels = np.array(train.labels)
     validation.labels = np.array(validation.labels)
     test.labels = np.array(test.labels)
+    test
 
 
 

@@ -1,3 +1,5 @@
 .idea
 /Pandas/config.json
 ~
+/Real_Pandas/__pycache__
+

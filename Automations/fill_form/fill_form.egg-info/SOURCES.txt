@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+fill_form/__init__.py
+fill_form/__main__.py
+fill_form/bot.py
+fill_form.egg-info/PKG-INFO
+fill_form.egg-info/SOURCES.txt
+fill_form.egg-info/dependency_links.txt
+fill_form.egg-info/requires.txt
+fill_form.egg-info/top_level.txt
+fill_form/resources/start.png
